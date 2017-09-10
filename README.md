@@ -4,6 +4,7 @@ Show GPU occupying status in dgx-1 (using nvidia-smi)
 ## Requirement
 
 - `nvidia-smi`
+- A dgx-1 environment(docker based)
 
 ## Usage
 
